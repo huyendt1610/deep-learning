@@ -5,3 +5,6 @@ __pycache__/
 notes.ipynb
 datasets
 savedmodel
+*.h5
+*.keras
+outputs/
